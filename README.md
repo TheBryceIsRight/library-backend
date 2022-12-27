@@ -1,3 +1,3 @@
-# Strapi application
+# Backend for my design portfolio
 
-A quick description of your strapi application
+Strapi application for serving REST APIs to the Vue front end
